@@ -3,6 +3,7 @@
 class CheckOut {
   final int numeroHabitacion;
   final DateTime fecha;
+  
 
   CheckOut({
     required this.numeroHabitacion,

@@ -14,6 +14,7 @@ class Habitacion {
     this.estado = EstadoHabitacion.disponible, // toda habitación nueva inicia disponible
   });
 
+
   int get capacidad => tipo.capacidadMaxima;
 
   bool get estaDisponible => estado == EstadoHabitacion.disponible;

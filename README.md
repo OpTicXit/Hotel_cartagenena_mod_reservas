@@ -1,5 +1,7 @@
 # Hotel_cartagenena_mod_reservas
 
+#ESTUDIANTES: Jesús Castilla, Willer Rivero, Miguel Martinez, Luis Reyes, Andres Diaz
+
 ## Objetivo
 Sistema de consola en Dart, modularizado con Programación Orientada a Objetos, para
 que los recepcionistas del Hotel Cartagena administren habitaciones y huéspedes:
